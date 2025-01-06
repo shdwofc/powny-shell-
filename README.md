@@ -55,3 +55,17 @@ V4.1'in PHP kodunu karşılaştırırken web kabuğunun v3'ünde bulunmayan aşa
 'damper' ➠ 'Veritabanı Damper', 'columper' ➠ 'Sütun Damper', 'deziper' ➠ 'DeCompressor', 'fakepage' ➠ 'Sahte Sayfa', 'config_grabber' ➠ 'Config Grabber', 'archive_manager' ➠ 'Arşiv Yönetici', İlk üçü yalnızca mevcut özelliklerin varyasyonlarıdır (ör. coldumper) ve çok özellikli PHP web kabukları arasında nispeten yaygındır.
 
 Son üç özelliğin davranışına odaklanalım: fakepage, config_grabber ve archive_manager.
+
+
+
+
+# PownyShell
+# powny shell
+# powny shell download
+# powny shell txt
+# pownyShell
+# Shell
+# pownyShell
+# peneteracion
+# WebHacking
+# WebSitesPeneteration
